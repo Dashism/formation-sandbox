@@ -1,0 +1,12 @@
+{
+    "firstname": "Jérémy",
+    "lastname": "Masson",
+    "age": 27,
+    "address": {
+        "street": "5 villa Lourcine",
+        "complements": "Floor -1",
+        "city": "Paris",
+        "postalCode": "75014",
+        "country": "France"
+    }
+}
